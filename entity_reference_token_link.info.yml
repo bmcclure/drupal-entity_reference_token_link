@@ -1,0 +1,7 @@
+name: Entity Reference Token Link
+type: module
+description: 'Implements a field that stores a URL-friendly slug for an entity.'
+core: 8.x
+package: Fields
+dependencies:
+  - pathauto
